@@ -303,6 +303,7 @@ homeassistant/components/no_ip/* @fabaff
 homeassistant/components/noaa_tides/* @jdelaney72
 homeassistant/components/notify/* @home-assistant/core
 homeassistant/components/notify_events/* @matrozov @papajojo
+homeassistant/components/notify_template_service/* @hco
 homeassistant/components/notion/* @bachya
 homeassistant/components/nsw_fuel_station/* @nickw444
 homeassistant/components/nsw_rural_fire_service_feed/* @exxamalte

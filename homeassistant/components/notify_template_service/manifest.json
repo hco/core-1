@@ -1,0 +1,7 @@
+{
+  "domain": "notify_template_service",
+  "name": "Notify Template Service",
+  "documentation": "https://www.home-assistant.io/integrations/notify_template_service",
+  "requirements": [],
+  "codeowners": ["@hco"]
+}
